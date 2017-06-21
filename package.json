@@ -1,0 +1,49 @@
+{
+  "name": "new_project",
+  "version": "0.0.0",
+  "description": "project",
+  "main": "index.js",
+  "author": "klyopa255",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "bower": "^1.8.0",
+    "browser-sync": "^2.18.8",
+    "css-mqpacker": "^5.0.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-csso": "^3.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-less": "^3.3.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-svgmin": "^1.2.3",
+    "gulp-svgstore": "^6.1.0",
+    "postcss-discard-comments": "^2.0.4",
+    "run-sequence": "^1.2.2"
+  },
+  "scripts": {
+    "start": "gulp watch",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klyopa255/gulp_template.git"
+  },
+  "keywords": [
+    "gulp",
+    "npm",
+    "Node.js",
+    "live",
+    "reload",
+    "Less",
+    "imagemin",
+    "svg",
+    "sprite"
+  ],
+  "bugs": {
+    "url": "https://github.com/klyopa255/gulp_template/issues"
+  },
+  "homepage": "https://github.com/klyopa255/gulp_template#readme"
+}
