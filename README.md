@@ -24,7 +24,7 @@ or
 ```gulp watch```
 
 #### to create svg sprite put svg images in dev/svgsprite and run
-```gilp spritesvg```
+```gulp spritesvg```
 
 #### to build project
 ```npm run build```
